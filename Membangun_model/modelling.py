@@ -20,8 +20,8 @@ mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.set_experiment("Heart-Disease-Basic")
 
 # Load dataset preprocessed
-train_df = pd.read_csv('heart_preprocessing/heart_train_preprocessed.csv')
-test_df  = pd.read_csv('heart_preprocessing/heart_test_preprocessed.csv')
+train_df = pd.read_csv('heart_train_preprocessed.csv')
+test_df  = pd.read_csv('heart_test_preprocessed.csv')
 
 X_train = train_df.drop(columns=['target'])
 y_train = train_df['target']

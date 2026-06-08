@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/536508552384087830/96a2a77d2a0040d9867b0acc39232d2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '536508552384087830'
+lifecycle_stage: active
+run_id: 96a2a77d2a0040d9867b0acc39232d2b
+run_name: RF_autolog_basic
+run_uuid: 96a2a77d2a0040d9867b0acc39232d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780883649363
+status: 1
+tags: []
+user_id: Rafa
