@@ -1,0 +1,13 @@
+DagsHub Repository - Heart Disease MSML
+Autor: Nazly Rafa Oktafian Nuzqu
+
+Link DagsHub:
+https://dagshub.com/rfaoktvian/Workflow-CI
+
+MLflow Tracking URI:
+https://dagshub.com/rfaoktvian/Workflow-CI.mlflow/
+
+Eksperimen:
+- Heart-Disease-Basic (dari modelling.py lokal)
+- Heart-Disease-CI (dari GitHub Actions CI)
+
