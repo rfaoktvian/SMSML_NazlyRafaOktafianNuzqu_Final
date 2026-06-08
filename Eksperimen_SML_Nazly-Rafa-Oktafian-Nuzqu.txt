@@ -1,0 +1,14 @@
+Eksperimen SML - Heart Disease Dataset
+Autor: Nazly Rafa Oktafian Nuzqu
+
+Link Repository GitHub (Kriteria 1):
+https://github.com/rfaoktvian/Eksperimen_SML_Nazly-Rafa-Oktafian-Nuzqu
+
+Isi repository:
+Eksperimen_SML_Nazly-Rafa-Oktafian-Nuzqu/
+├── heart.csv
+└── preprocessing/
+    ├── Eksperimen_Nazly-Rafa-Oktafian-Nuzqu.ipynb
+    ├── automate_Nazly-Rafa-Oktafian-Nuzqu.py
+    ├── heart_train_preprocessed.csv
+    └── heart_test_preprocessed.csv

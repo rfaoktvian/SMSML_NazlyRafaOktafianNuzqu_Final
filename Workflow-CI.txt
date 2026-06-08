@@ -1,0 +1,21 @@
+Workflow CI - Heart Disease MSML
+Autor: Nazly Rafa Oktafian Nuzqu
+
+Link Repository GitHub (Kriteria 3):
+https://github.com/rfaoktvian/Workflow-CI
+
+Isi repository:
+Workflow-CI/
+├── .github/workflows/ci_train.yml
+└── MLProject/
+    ├── MLproject
+    ├── conda.yaml
+    ├── modelling.py
+    └── heart_preprocessed.csv
+
+Secrets GitHub yang dikonfigurasi:
+- DAGSHUB_USERNAME
+- DAGSHUB_REPO       → Workflow-CI
+- DAGSHUB_TOKEN
+- MLFLOW_TRACKING_USERNAME
+- MLFLOW_TRACKING_PASSWORD
